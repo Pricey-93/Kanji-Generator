@@ -1,15 +1,66 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Alata', sans-serif;
 }
 body {
     height: 100vh;
     width: 100vw;
+    font-family: 'Alata', sans-serif;
 }
-.title {
-    text-transform: capitalize;
-    text-align: center;
+.jp {
+    font-family: 'Kosugi Maru', sans-serif;
 }
+/* Header */
+.container {
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    height: 7vh;
+    width: 100%;
+    background-color:#00BFA6;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+}
+.navWrapper {
+    display: flex;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropbtn {
+    color: white;
+    background-color:#00BFA6;
+    font-size: 16px;
+    height: 100%;
+    border: none;
+    cursor: pointer;
+}
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    right: 0;
+}
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  .dropdown-content a:hover {
+      background-color: #f1f1f1
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+/* main content kanji generator */
 .generatorWrapper {
     display: grid;
     align-content: center;
@@ -25,7 +76,7 @@ body {
     justify-content: space-between;
     text-transform: capitalize;
     height: 100%;
-    background-color: aqua;
+    background-color:#00BFA6;
     border: 2px solid black;
 }
 #kanjiCharacter {

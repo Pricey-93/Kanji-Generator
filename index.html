@@ -4,17 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kanji Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Alata&family=Kosugi+Maru&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="styles.css">
     <script type="text/javascript" src="scripts.js" async></script>
 </head>
 <body>
     
-    <header>
-        <div class="title">
-            <h1>
-                Kanji Generator
-            </h1>
+    <header class="container">
+        <div class="logo">
+            <h1>kanji generator</h1>
         </div>
+        <nav class="navWrapper">
+            <div class="dropdown">
+                <button class="dropbtn">Year-Selection</button>
+                <div class="dropdown-content">
+                  <a href="#">Year 1 Kanji</a>
+                  <a href="#">Year 2 Kanji</a>
+                  <a href="#">All Kanji</a>
+                </div>
+              </div> 
+        </nav>
     </header>
 
     <main>
@@ -25,10 +34,10 @@
                         <h2>reading</h2>
                     </div> 
                     <div id="hiraganaReading">
-                        <p>びじゅつかん</p>
+                        <p class="jp">びじゅつかん</p>
                     </div>
                     <div class="buttons">
-                        <button type="button" id="hiraganaButton">reveal/hide</button>
+                        <button type="button" id="hiraganaButton">show</button>
                     </div>
                 </div>
                 
@@ -37,7 +46,7 @@
                         <h2>kanji</h2>
                     </div> 
                     <div id="kanjiCharacter">
-                        美術館
+                        <p class="jp">美術館</p>
                     </div>
                     <div class="buttons">
                         <button type="button">generate</button>
@@ -52,7 +61,7 @@
                         <p>art museum</p>
                     </div>
                     <div class="buttons">
-                        <button type="button" id="englishButton">reveal/hide</button>
+                        <button type="button" id="englishButton">show</button>
                     </div>
                 </div>
             </div>
