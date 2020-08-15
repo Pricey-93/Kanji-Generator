@@ -3,14 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
     <title>Kanji Generator</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="scripts.js" async></script>
 </head>
 <body>
-    <div class="title">
-        <h1>
-            Kanji Generator
-        </h1>
-    </div>
+    
+    <header>
+        <div class="title">
+            <h1>
+                Kanji Generator
+            </h1>
+        </div>
+    </header>
+
+    <main>
+        <section class="generator">
+            <div class="generatorWrapper">
+                <div class="generatorBoxes" id="readingBox">
+                    <div class="boxTitles">
+                        <h2>reading</h2>
+                    </div> 
+                    <div id="hiraganaReading">
+                        <p>びじゅつかん</p>
+                    </div>
+                    <div class="buttons">
+                        <button type="button" id="hiraganaButton">reveal/hide</button>
+                    </div>
+                </div>
+                
+                <div class="generatorBoxes" id="kanjiBox">
+                    <div class="boxTitles">
+                        <h2>kanji</h2>
+                    </div> 
+                    <div id="kanjiCharacter">
+                        美術館
+                    </div>
+                    <div class="buttons">
+                        <button type="button">generate</button>
+                    </div>
+                </div>
+
+                <div class="generatorBoxes" id="englishBox">
+                    <div class="boxTitles">
+                        <h2>english</h2>
+                    </div> 
+                    <div id="englishTranslation">
+                        <p>art museum</p>
+                    </div>
+                    <div class="buttons">
+                        <button type="button" id="englishButton">reveal/hide</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
 </body>
 </html>

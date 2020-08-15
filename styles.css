@@ -10,3 +10,32 @@ body {
     text-transform: capitalize;
     text-align: center;
 }
+.generatorWrapper {
+    display: grid;
+    align-content: center;
+    grid-template-columns: 1fr 1.5fr 1fr;
+    
+    gap: 1px;
+    height: 90vh;
+}
+.generatorBoxes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-transform: capitalize;
+    height: 100%;
+    background-color: aqua;
+    border: 2px solid black;
+}
+#kanjiCharacter {
+    font-size: 5rem;
+}
+#hiraganaReading {
+    display: none;
+    font-size: 1.5rem;
+}
+#englishTranslation {
+    display: none;
+    font-size: 2rem;
+}
