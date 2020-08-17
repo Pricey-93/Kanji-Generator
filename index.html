@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kanji Generator</title>
     <link href="https://fonts.googleapis.com/css2?family=Alata&family=Kosugi+Maru&display=swap" rel="stylesheet"> 
+    <link href="images/undraw_japan_ubgk.svg">
     <link rel="stylesheet" href="styles.css">
     <script type="text/javascript" src="scripts.js" async></script>
 </head>
@@ -18,9 +19,9 @@
             <div class="dropdown">
                 <button class="dropbtn">Year-Selection</button>
                 <div class="dropdown-content">
-                  <a href="#">Year 1 Kanji</a>
-                  <a href="#">Year 2 Kanji</a>
-                  <a href="#">All Kanji</a>
+                  <a href="#" id="yearOneKanji">Year 1 Kanji</a>
+                  <a href="#" id="yeartwoKanji">Year 2 Kanji</a>
+                  <a href="#" id="allKanji">All Kanji</a>
                 </div>
               </div> 
         </nav>
@@ -34,7 +35,7 @@
                         <h2>reading</h2>
                     </div> 
                     <div id="hiraganaReading">
-                        <p class="jp">びじゅつかん</p>
+                        <p class="jp">ことば</p>
                     </div>
                     <div class="buttons">
                         <button type="button" id="hiraganaButton">show</button>
@@ -46,10 +47,10 @@
                         <h2>kanji</h2>
                     </div> 
                     <div id="kanjiCharacter">
-                        <p class="jp">美術館</p>
+                        <p class="jp">言葉</p>
                     </div>
                     <div class="buttons">
-                        <button type="button">generate</button>
+                        <button type="button" id="kanjiButton">generate</button>
                     </div>
                 </div>
 
@@ -58,7 +59,7 @@
                         <h2>english</h2>
                     </div> 
                     <div id="englishTranslation">
-                        <p>art museum</p>
+                        <p>language; word</p>
                     </div>
                     <div class="buttons">
                         <button type="button" id="englishButton">show</button>
