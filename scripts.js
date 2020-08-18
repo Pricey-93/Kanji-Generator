@@ -8,8 +8,8 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("englishButton").addEventListener("click", function(){toggleShowHide("englishButton"); })
 
 /* Generator action listeners*/
-/*document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })*/
-document.getElementById("kanjiButton").addEventListener("click", refresh);
+document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("https://github.com/Pricey-93/Kanji-Generator/kanji-sets/all_year_one_kanji.txt"); })
+/*document.getElementById("kanjiButton").addEventListener("click", refresh);*/
 
 /* toggles the reading / translation visibility */
 function toggleDisplay(id) {
@@ -39,7 +39,7 @@ function toggleDisplay(id) {
 
  /*fetch*/
 /* loads kanji file and generates random line*/
- /*function loadTextFile(filename) {
+ function loadTextFile(filename) {
      fetch(filename)
      .then(function(response) {
          return response.text() ;
@@ -64,9 +64,10 @@ function toggleDisplay(id) {
     .catch(function(error) {
         console.log(error);
     })
- }*/
+ }
 
  /* XMLHttpRequest */
+/*
 const XHR = new XMLHttpRequest();
 const url = "kanji-sets/all_year_one_kanji.txt";
    
@@ -90,3 +91,4 @@ document.getElementById("hiraganaReading").innerHTML = reading_line;
 document.getElementById("englishTranslation").innerHTML = english_line;
 }
 XHR.send();
+*/
