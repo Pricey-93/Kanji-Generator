@@ -40,7 +40,7 @@ function toggleDisplay(id) {
  /*fetch*/
 /* loads kanji file and generates random line*/
  function loadTextFile(filename) {
-     fetch(filename)
+     fetch(filename, {credentials: "omit"})
      .then(function(response) {
          return response.text() ;
     })
