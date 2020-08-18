@@ -8,7 +8,7 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("englishButton").addEventListener("click", function(){toggleShowHide("englishButton"); })
 
 /* Generator action listeners*/
-document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })
+/*document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })*/
 document.getElementById("kanjiButton").addEventListener("click", refresh);
 
 /* toggles the reading / translation visibility */
@@ -37,8 +37,9 @@ function toggleDisplay(id) {
      document.getElementById("englishButton").innerHTML = "show";
  }
 
+ /*fetch*/
 /* loads kanji file and generates random line*/
- function loadTextFile(filename) {
+ /*function loadTextFile(filename) {
      fetch(filename)
      .then(function(response) {
          return response.text() ;
@@ -63,4 +64,29 @@ function toggleDisplay(id) {
     .catch(function(error) {
         console.log(error);
     })
- }
+ }*/
+
+ /* XMLHttpRequest */
+const XHR = new XMLHttpRequest();
+const url = "kanji-sets/all_year_one_kanji.txt";
+   
+XHR.open("GET", url);
+document.getElementById("kanjiButton").addEventListener("click", load);
+function load() {
+    const ALL_LINES = XHR.response.split(/\r\n|\n/);
+    let math = Math.floor(Math.random() * Math.floor(ALL_LINES.length -1));
+    let line = ALL_LINES[math];
+    let split = line.split(" ");
+    let kanji_line = split[0];
+    let reading_line = split[1];
+    let english_line = [];
+    let i = 2;
+    while (i !== split.length) {
+        english_line += split[i] + " ";
+        i++;
+    } 
+document.getElementById("kanjiCharacter").innerHTML = kanji_line;
+document.getElementById("hiraganaReading").innerHTML = reading_line;
+document.getElementById("englishTranslation").innerHTML = english_line;
+}
+XHR.send();
