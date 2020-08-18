@@ -8,7 +8,7 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("englishButton").addEventListener("click", function(){toggleShowHide("englishButton"); })
 
 /* Generator action listeners*/
-document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("https://github.com/Pricey-93/Kanji-Generator/kanji-sets/all_year_one_kanji.txt"); })
+document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("https://pricey-93.github.io/Kanji-Generator/kanji-sets/all_year_one_kanji.txt"); })
 /*document.getElementById("kanjiButton").addEventListener("click", refresh);*/
 
 /* toggles the reading / translation visibility */
