@@ -11,19 +11,6 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })
 document.getElementById("kanjiButton").addEventListener("click", refresh);
 
-/* File selector listeners */
-document.getElementById("yearOneKanji").addEventListener("click", function(){fileChange("kanji-sets/all_year_one_kanji.txt")})
-document.getElementById("yearTwoKanji").addEventListener("click", function(){fileChange("kanji-sets/all_year_two_kanji.txt")})
-document.getElementById("allKanji").addEventListener("click", function(){fileChange("kanji-sets/all_kanji.txt")})
-
-/* alert listeners when changing file */
-document.getElementById("yearOneKanji").addEventListener("click", windowAlert);
-document.getElementById("yearTwoKanji").addEventListener("click", windowAlert);
-document.getElementById("allKanji").addEventListener("click", windowAlert);
-
-function windowAlert(){
-    window.alert("Kanji Selection Changed!");
-}
 /* toggles the reading / translation visibility */
 function toggleDisplay(id) {
     if (document.getElementById(id).style.display !== "block"){
@@ -48,12 +35,6 @@ function toggleDisplay(id) {
      document.getElementById("englishTranslation").style.display = "none";
      document.getElementById("hiraganaButton").innerHTML = "show";
      document.getElementById("englishButton").innerHTML = "show";
- }
-
- /* changes file path for generator */
- function fileChange(filepath) {
-        document.getElementById("kanjiButton").removeEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })
-        document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile(filepath); })
  }
 
  /*fetch*/
