@@ -1,3 +1,561 @@
+安全 あんぜん safety
+不安 ふあん anxiety; uneasiness
+安売り やすうり discount
+一月 いちがつ January
+一人 ひとり one person
+引き出し ひきだし drawer
+引っ越す ひっこす move (house)
+飲み物 のみもの a drink
+左右 さゆう left and right
+右手 みぎて right hand
+大雨 おおあめ heavy rain
+小雨 こさめ light rain
+雨雲 あまぐも rain cloud
+白雲 しらくも white cloud
+営業中 えいぎょうちゅう open (e.g., a store)
+泳ぎ方 およぎかた way of swimming
+遠泳 えんえい long distance swimming
+英国 えいこく the UK
+英語 えいご English language
+百円 ひゃくえん 100 yen
+押し入れ おしいれ closet
+押し入る おしいる push in; break in
+一億 いちおく 100 million
+十億 じゅうおく 1 billion
+下手 へた be bad at
+靴下 くつした socks
+文化 ぶんか culture
+化学 かがく chemistry
+国際化 こくさいか internationalisation
+何時 なんじ what time (is it)?
+何度 なんど how many times?; how often?
+参加 さんか participation
+増加 ぞうか increase
+夏休み なつやすみ summer vacation
+家庭 かてい home; family
+家事 かじ housework
+果物 くだもの fruit
+果肉 かにく flesh of the fruit
+火曜日 かようび Tuesday
+火山 かざん volcano
+花見 はなみ flower viewing
+花火 はなび fireworks
+会話 かいわ converstation
+会社 かいしゃ company; business
+社会 しゃかい society
+何回 なんかい how many times?; how often?
+今回 こんかい this time
+海岸 かいがん coast; beach
+海外 かいがい overseas
+開始 かいし start; commencement
+開会 かいかい opening of a meeting
+外国語 がいこくご foreign language
+内外 ないがい inside and out
+目覚まし時計 めざましどけい alarm clock
+感覚 かんかく sense; intuition
+学校 がっこう school
+大学 だいがく university
+漢字 かんじ Kanji; Chinese characters
+時間 じかん time; length of time
+人間 にんげん human being
+玄関 げんかん entrance
+関係 かんけい relationship; connection
+岩手 いわて Iwate (prefecture)
+岩田 いわた Iwata
+楽器 がっき musical instrument
+食器 しょっき tableware
+時期 じき time; season
+学期 がっき semester; term
+日帰り ひがえり day trip
+帰国 きこく return to one's country
+元気 げんき healthy; energetic
+病気 びょうき ill
+気分 きぶん feeling; mood
+早起き はやおき early riser
+呼び起こす よびおこす wake someone (by calling them)
+休み やすみ holiday; vacation
+休み中 やすみちゅう closed; on a break
+特急 とっきゅう limited train (faster than an express train)
+救急車 きゅうきゅうしゃ ambulance
+求人 きゅうじん recruiting; job vacancy
+泣き声 なきごえ cry; crying voice
+泣き出す なきだす burst out crying
+牛肉 ぎゅうにく beef
+牛乳 ぎゅうにゅう milk
+金魚 きんぎょ goldfish
+人魚 にんぎょ mermaid
+子供 こども children
+共に ともに together; jointly
+共同 きょうどう doing together (as equals)
+勉強 べんきょう study
+強化 きょうか strengthening; reinforcement
+教室 きょうしつ classroom
+教育 きょういく education
+授業 じゅぎょう lesson; class
+曲 きょく piece of music
+作曲 さっきょく composition
+近所 きんじょ neighbourhood
+最近 さいきん recently
+金曜日 きんようび Friday
+現金 げんきん cash
+九月 くがつ September
+九人 きゅうにん nine people
+苦労 くろう trouble; hardship
+苦手 にがて be bad at
+道具 どうぐ tool
+器具 きぐ utensil
+空手 からて karate
+空港 くうこう airport
+お兄さん おにいさん elder brother
+兄弟 きょうだい siblings; brothers
+時計 とけい clock; watch
+計算 けいさん calculation
+欠点 けってん fault; weak point
+欠席 けっせき absence; non-attendance
+決定 けってい decision
+決心 けっしん determination
+月曜日 げつようび Monday
+先月 せんげつ last month
+来月 らいげつ next month
+子犬 こいぬ puppy
+犬猫 いぬねこ dogs and cats; pets
+見物 けんぶつ sightseeing
+意見 いけん opinion
+藤原 ふじわら Fujiwara
+原田 はらだ Harada
+一言 ひとこと single word; some comments
+方言 ほうげん dialect
+中古 ちゅうこ second hand; used goods
+名古屋 なごや Nagoya
+呼び物 よびもの main attraction
+呼吸 こきゅう breathing; respiration
+五月 ごがつ May
+五人 ごにん five people
+午前 ごぜん morning; a.m.
+午後 ごご afternoon; p.m.
+午後中 ごごちゅう in the afternoon
+最後 さいご last
+単語 たんご word; vocabulary
+言語 げんご language
+交通 こうつう traffic
+交流 こうりゅう (cultural) exchange
+人口 じんこう population
+出口 でぐち exit
+入口 いりぐち entrance
+方向 ほうこう direction
+向こう側 むこうがわ opposite side (e.g., of the street)
+大好き だいすき really like; love
+好き嫌い すききらい likes and dislikes
+工場 こうじょう factory
+工事 こうじ construction work
+広場 ひろば plaza; town square
+広々 ひろびろ vast; spacious
+小学校 しょうがっこう elementary school
+中学校 ちゅうがっこう junior high school; middle school; lower secondary school
+考え かんがえ idea; thought
+考え直す かんがえなおす reconsider
+旅行 りょこう travel
+銀行 ぎんこう bank
+高校 こうこう senior high school
+最高 さいこう most; best
+番号 ばんごう number
+信号 しんごう signal; traffic light
+場合 ばあい case; situation
+具合 ぐあい condition
+広告 こうこく advertisement
+報告 ほうこく report; information
+外国 がいこく foreign country
+国際 こくさい international
+今日 きょう today
+今度 こんど this time; next time; last time
+困難 こんなん difficulty
+困った人 こまったひと a difficult person
+左手 ひだりて left hand
+左足 ひだりあし left leg
+作文 さくぶん essay; composition
+作業 さぎょう manufacturing
+昨日 きのう yesterday
+一昨日 おととい day before yesterday
+三月 さんがつ March
+三人 さんにん three people
+山口 やまぐち Yamaguchi
+山本 やまもと Yamamoto
+仕事 しごと work; job
+仕方 しかた way; method
+使用 しよう use; utilisation
+大使館 たいしかん embassy
+四月 しがつ April
+四人 よにん four people
+始業 しぎょう start of work; commencement
+行き始める いきはじめる start going
+お姉さん おねえさん elder sister
+姉妹 しまい sisters
+息子 むすこ son
+椅子 いす chair
+帽子 ぼうし hat; cap
+不思議 ふしぎ mysterious
+思い出 おもいで memory
+中止 ちゅうし stoppage
+禁止 きんし prohibition; ban
+死体 したい corpse
+死亡 しぼう death; mortality
+私達 わたしたち we; us
+私立 しりつ private (establishment)
+毛糸 けいと knitting wool
+釣り糸 つりいと fishing line
+事故 じこ accident
+事実 じじつ truth; fact
+文字 もじ letter (of alphabet)
+数字 すうじ numeral
+山寺 やまでら mountain temple
+金閣寺 きんかくじ Golden Pavilian (temple name)
+気持ち きもち feeling
+持ち帰り もちかえり takeaway (i.e., food)
+金持ち かねもち rich person
+時々 ときどき sometimes
+一時半 いちじはん 1:30
+次回 じかい next time
+次期 じき next term; next period
+両耳 りょうみみ both ears
+七月 しちがつ July
+七人 しちにん seven people
+失敗 しっぱい failure; mistake
+失業 しつぎょう unemployment
+現実 げんじつ reality
+実験 じっけん experiment
+学者 がくしゃ scholar
+数学者 すうがくしゃ mathematician
+医者 いしゃ doctor
+両者 りょうしゃ pair; both people
+自動車 じどうしゃ automobile
+自転車 じてんしゃ bicycle
+借金 しゃっきん debt; loan
+借家 しゃくや rented house
+若者 わかもの young person
+若葉 わかば new leaves
+弱点 じゃくてん weak point
+弱虫 よわむし coward; weakling
+取り上げる とりあげる to pick up
+手紙 てがみ letter
+切手 きって stamp
+日本酒 にほんしゅ sake; Japanese rice wine
+梅酒 うめしゅ plum wine
+居酒屋 いざかや izakaya; Japanese-style bar
+受付 うけつけ reception (desk)
+受け取る うけとる to receive; to take
+秋休み あきやすみ autumn vacation
+練習 れんしゅう practice
+復習 ふくしゅう review
+今週 こんしゅう this week
+来週 らいしゅう next week
+住所 じゅうしょ address
+住宅 じゅうたく residence; housing
+十月 じゅうがつ October
+十一月 じゅういちがつ November
+十二月 じゅうにがつ December
+重要 じゅうよう important
+重病 じゅうびょう serious illness
+出来る できる to be able to; to complete
+思い出す おもいだす to recall
+春休み はるやすみ spring vacation
+最初 さいしょ beginning
+初めに はじめに first; to begin with
+図書館 としょかん library
+教科書 きょうかしょ textbook
+女の子 おんなのこ girl
+女の人 おんなのひと woman
+小石 こいし pebble
+小説 しょうせつ novel
+少年 しょうねん boy; teenage boy
+少女 しょうじょ girl; teenage girl
+少々 しょうしょう just a minute; small quantity
+取り消す とりけす cancel
+消しゴム けしゴム rubber; eraser
+笑顔 えがお smiling face; smile
+笑い声 わらいごえ laughter
+上手 じょうず be good at
+上着 うわぎ jacket
+食堂 しょくどう cafeteria; restaurant
+食事 しょくじ meal
+自信 じしん self confidence
+返信 へんしん reply
+安心 あんしん relief; peace of mind
+心配 しんぱい worry; concern
+新年 しんねん new year
+新聞記事 しんぶんきじ newspaper article
+森田 もりた Morita
+青森 あおもり Aomori
+両親 りょうしん both parents
+親切 しんせつ kind
+日本人 にほんじん Japanese person
+イギリス人 イギリスじん British person
+水曜日 すいようび Wednesday
+水泳 すいえい swimming
+数学 すうがく maths
+数人 すうにん several people
+男性 だんせい male
+女性 じょせい female
+晴れ はれ clear weather
+正直 しょうじき honest
+正解 せいかい correct answer
+学生 がくせい student
+先生 せんせい teacher
+西山 にしやま Nishiyama
+西口 にしぐち west exit
+石川 いしかわ Ishikawa
+石油 せきゆ oil
+切符 きっぷ ticket
+売り切れ うりきれ sold out
+雪国 ゆきぐに snow country
+雪だるま ゆきだるま snowman
+雪祭り ゆきまつり snow festival
+先週 せんしゅう last week
+先月 せんげつ last month
+二千 にせん 2000
+三千 さんぜん 3000
+小川 おがわ stream; Ogawa
+川崎 かわさき Kawasaki
+お手洗い おてあらい toilet
+洗濯 せんたく laundry
+洗面器 せんめんき wash basin
+午前中 ごぜんちゅう during the morning
+駅前 えきまえ in front of the station
+全部 ぜんぶ all
+全然 ぜんぜん not at all (with negative verb);completely
+全国 ぜんこく the whole country
+早口 はやくち fast-talking
+早寝 はやね go to bed early
+相手 あいて partner; opponent
+相談 そうだん consultation
+走り出す はしりだす begin to run
+放送 ほうそう broadcast
+見送る みおくる see off; send off
+足首 あしくび ankle
+不足 ふそく insufficient
+家族 かぞく family
+相続 そうぞく succession; inheritance
+連続 れんぞく continuation; series
+村上 むらかみ Murakami
+村本 むらもと Muramoto
+多少 たしょう a few
+多分 たぶん maybe; probably
+太陽 たいよう sun
+太刀 たち long sword
+体重 たいじゅう body weight
+体温 たいおん body temperature
+期待 きたい expectation; hope
+待ち合わせ場所 まちあわせばしょ meeting place
+貸家 かしや house for rent
+貸間 かしま room for rent
+時代 じだい period; era
+大変 たいへん very; difficult
+大切 たいせつ important
+友達 ともだち friend(s)
+子供達 こどもたち children
+谷口 たにぐち Taniguchi
+谷崎 たにざき Tanizaki
+短期 たんき short term
+長短 ちょうたん length
+男の子 おとこのこ boy
+男の人 おとこのひと man
+知り合い しりあい acquaintance
+知識 ちしき knowledge
+地震 じしん earthquake
+地下鉄 ちかてつ subway
+池田 いけだ Ikeda
+池原 いけはら Ikehara
+位置 いち place; situation
+竹下 たけした Takesita
+竹の子 たけのこ bamboo shoot
+中国 ちゅうごく China
+中学生 ちゅうがくせい junior high student; middle school student
+昼ご飯 ひるごはん lunch
+昼間 ひるま day time
+今朝 けさ this morning
+朝ご飯 あさごはん breakfast
+社長 しゃちょう company president
+部長 ぶちょう section chief
+焼き鳥 やきとり yakitori
+白鳥 はくちょう swan
+真っ直ぐ まっすぐ straight (ahead)
+直接 ちょくせつ direct
+予定 よてい plan; schedule
+定食 ていしょく set meal
+定期 ていき fixed period; fixed term
+弟さん おとうとさん younger brother
+天気 てんき weather
+天皇 てんのう Emperor of Japan
+百点 ひゃくてん 100 points
+交差点 こうさてん intersection
+田中 たなか Tanaka
+村田 むらた Murata
+電気 でんき electricity
+電話 でんわ telephone
+電車 でんしゃ train
+温度 おんど temperature
+一度 いちど one time
+土曜日 どようび Saturday
+土地 とち plot of land; locality
+冬休み ふゆやすみ winter vacation
+春夏秋冬 しゅんかしゅうとう the four seasons
+小島 こじま small island; Kojima
+広島 ひろしま Hiroshima
+東山 ひがしやま Higashiyama
+東口 ひがしぐち east exit
+答え こたえ an answer
+問答 もんどう question and answer; dialogue
+労働 ろうどう manual labour
+運動 うんどう exercise
+感動 かんどう being moved by
+同級生 どうきゅうせい classmate
+同時に どうじに at the same time
+茶道 さどう tea ceremony
+北海道 ほっかいどう Hokkaido
+読書 どくしょ reading
+読み方 よみかた pronunciation; reading (e.g., of a kanji)
+国内 こくない domestic
+市内 しない in a city
+南北 なんぼく north and south
+南口 みなみぐち south exit
+二月 にがつ February
+二人 ふたり two people
+鳥肉 とりにく chicken
+豚肉 ぶたにく pork
+日曜日 にちようび Sunday
+毎日 まいにち everyday
+入学 にゅうがく entry to school or university
+入院 にゅういん hospitalisation
+収入 しゅうにゅう income
+今年 ことし this year
+去年 きょねん last year
+来年 らいねん next year
+馬車 ばしゃ horsedrawn carriage
+馬力 ばりき horsepower
+売買 ばいばい trade; buying and selling
+売り場 うりば point of sale; sales counter
+商売 しょうばい commerce
+八月 はちがつ August
+八人 はちにん eight people
+発音 はつおん pronunciation
+発明 はつめい invention
+半分 はんぶん half
+半年 はんとし half a year
+反対 はんたい opposite
+ご飯 ごはん cooked rice; meal
+昼飯 ひるめし lunch
+今晩 こんばん tonight; this evening
+晩ご飯 ばんごはん evening meal
+一番 いちばん number 1; best
+交番 こうばん small police station
+比較 ひかく comparison
+見比べる みくらべる compare with the eyes
+美人 びじん beautiful woman
+美容院 びよういん beauty parlour
+ニ百 にひゃく 200
+三百 さんびゃく 300
+片付ける かたづける tidy up
+付き合う つきあう date
+夫婦 ふうふ couple; husband and wife
+夫人 ふじん wife; Mrs.
+大丈夫 だいじょうぶ ok
+お父さん おとうさん father
+祖父 そふ grandfather
+お風呂 おふろ bath
+台風 たいふう typhoon; hurricane
+和風 わふう Japanese style
+支払い しはらい payment
+食べ物 たべもの food
+買い物 かいもの shopping
+動物 どうぶつ animal
+自分 じぶん oneself
+部分 ぶぶん portion; part
+新聞 しんぶん newspaper
+聞き取る ききとる catch what someone said;understand
+平日 へいじつ weekday
+平成 へいせい Heisei era (1989-present)
+閉会 へいかい closure (of a ceremony, event,meeting, etc.)
+閉店 へいてん closing up shop (for the day);going out of business
+米国 べいこく America
+南米 なんべい South America
+変化 へんか change; variation
+変更 へんこう change; modification
+返事 へんじ reply
+繰り返す くりかえす repeat
+お返し おかえし return a favour
+散歩 さんぽ walk; stroll
+歩道 ほどう footpath
+母親 ははおや mother
+祖母 そぼ grandmother
+夕方 ゆうがた evening
+両方 りょうほう both
+忘れ物 わすれもの forgotten item
+忘年会 ぼうねんかい end of year party
+大忙し おおいそがし very busy (person or thing)
+東北 とうほく north east; Tohoku
+北口 きたぐち north exit
+日本語 にほんご Japanese language
+本当に ほんとうに really
+妹さん いもうとさん younger sister
+毎朝 まいあさ every morning
+毎週 まいしゅう every week
+二万 にまん 20 thousand
+十万 じゅうまん 100 thousand
+美味しい おいしい delicious
+意味 いみ meaning
+趣味 しゅみ hobby
+興味 きょうみ interest
+名前 なまえ name
+有名 ゆうめい famous
+名字 みょうじ surname
+明日 あした tomorrow
+説明 せつめい explanation
+木曜日 もくようび Thursday
+一番目 いちばんめ the first (in a sequence)
+目玉 めだま eyeball
+問題 もんだい problem; question; issue
+質問 しつもん question
+門井 かどい Kadoi
+北門 きたもん north gate
+今夜 こんや tonight; this night
+夜中 よなか middle of the night
+藤野 ふじの Fujino
+野菜 やさい vegetable
+ごま油 ごまあぶら sesame oil
+食用油 しょくようあぶら cooking oil
+友人 ゆうじん friend
+親友 しんゆう close friend
+有難い ありがたい grateful; gratitude
+有能 ゆうのう able; capable
+夕飯 ゆうはん evening meal
+毎夕 まいゆう every evening
+曜日 ようび day of the week
+何曜日 なんようび what day of the week?
+洋食 ようしょく Western food
+洋式 ようしき Western style
+用意 ようい preparation; arrangements
+言葉 ことば language; word
+浴室 よくしつ bathroom (room for bathing)
+入浴 にゅうよく enter a bath
+将来 しょうらい (near) future
+未来 みらい (distant) future
+立派 りっぱ splendid
+役に立つ やくにたつ be helpful; be useful
+仲良し なかよし close friend
+良く よく well; often
+体力 たいりょく stamina
+強力 きょうりょく powerful; strong
+林原 はやしばら Hayashibara
+林下 はやしした Hayashishita
+お礼 おれい gratitude; bow
+失礼 しつれい rude; excuse me
+老人 ろうじん elderly person
+老年 ろうねん old age
+六月 ろくがつ June
+六人 ろくにん six people
+和式 わしき Japanese style
+平和 へいわ peace
+世話 せわ take care of; help
+話し合う はなしあう discuss
 お客様 おきゃくさま guest; visitor
 観光客 かんこうきゃく tourist
 彼氏 かれし boyfriend
