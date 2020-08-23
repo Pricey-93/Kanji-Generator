@@ -19,9 +19,9 @@
             <div class="dropdown">
                 <button class="dropbtn">Year-Selection</button>
                 <div class="dropdown-content">
-                  <a href="#" id="yearOneKanji">Year 1 Kanji</a>
-                  <a href="#" id="yearTwoKanji">Year 2 Kanji</a>
-                  <a href="#" id="allKanji">All Kanji</a>
+                  <a href="#" class="filePaths activeFile" id="yearOneKanji">Year 1 Kanji</a>
+                  <a href="#" class="filePaths" id="yearTwoKanji">Year 2 Kanji</a>
+                  <a href="#" class="filePaths" id="allKanji">All Kanji</a>
                 </div>
               </div> 
         </nav>
@@ -68,5 +68,16 @@
             </div>
         </section>
     </main>
+    <script>
+        // Add active class to the current button (highlight it)
+        links = document.getElementsByClassName("filePaths");
+        for (let i = 0; i < links.length; i++) {
+          links[i].addEventListener("click", function() {
+          let current = document.getElementsByClassName("activeFile");
+          current[0].className = current[0].className.replace(" activeFile", "");
+          this.className += " activeFile";
+          });
+        }
+    </script>
 </body>
 </html>

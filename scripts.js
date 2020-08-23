@@ -8,8 +8,29 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("englishButton").addEventListener("click", function(){toggleShowHide("englishButton"); })
 
 /* Generator action listeners*/
-document.getElementById("kanjiButton").addEventListener("click", function(){loadTextFile("kanji-sets/all_year_one_kanji.txt"); })
+document.getElementById("kanjiButton").addEventListener("click", changeFilePath);
 document.getElementById("kanjiButton").addEventListener("click", refresh);
+
+/* Changes filepath based on which dropdown is active */
+function changeFilePath() {
+    let element = document.getElementsByClassName("activeFile");
+    let active = element[0].id;
+    let filepath;
+    switch (active) {
+        case "yearOneKanji":
+            filepath = "kanji-sets/all_year_one_kanji.txt";
+            break;
+        case "yearTwoKanji":
+            filepath = "kanji-sets/all_year_two_kanji.txt";
+            break;
+        case "allKanji":
+            filepath = "kanji-sets/all_kanji.txt";
+            break;
+        default:
+            console.log("file not found");
+    }
+    loadTextFile(filepath);
+}
 
 /* toggles the reading / translation visibility */
 function toggleDisplay(id) {
