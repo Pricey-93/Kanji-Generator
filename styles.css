@@ -70,7 +70,6 @@ body {
     display: grid;
     align-content: center;
     grid-template-columns: 1fr 1.5fr 1fr;
-    
     gap: 1px;
     height: 90vh;
 }

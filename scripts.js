@@ -11,6 +11,27 @@ document.getElementById("englishButton").addEventListener("click", function(){to
 document.getElementById("kanjiButton").addEventListener("click", changeFilePath);
 document.getElementById("kanjiButton").addEventListener("click", refresh);
 
+/* Alternative controls input listener */
+document.addEventListener("keydown", event => {
+    switch (event.keyCode) {
+        case 32:
+            changeFilePath();
+            refresh();
+            break;
+        case 65:
+            toggleDisplay("hiraganaReading");
+            break;
+        case 68:
+            toggleDisplay("englishTranslation");
+            break;
+        case 87:
+            toggleDisplay("hiraganaReading");
+            toggleDisplay("englishTranslation");
+        default:
+            console.log("error")
+    }
+});
+
 /* Changes filepath based on which dropdown is active */
 function changeFilePath() {
     let element = document.getElementsByClassName("activeFile");
@@ -59,7 +80,7 @@ function toggleDisplay(id) {
  }
 
  /*fetch*/
-/* loads kanji file and generates random line*/
+ /* loads kanji file and generates random line*/
  function loadTextFile(filename) {
      fetch(filename)
      .then(function(response) {
