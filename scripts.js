@@ -27,8 +27,6 @@ document.addEventListener("keydown", event => {
         case 87:
             toggleDisplay("hiraganaReading");
             toggleDisplay("englishTranslation");
-        default:
-            console.log("error")
     }
 });
 

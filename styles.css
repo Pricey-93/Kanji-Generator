@@ -66,19 +66,21 @@ body {
     background-color: #F50057;
 }
 /* main content kanji generator */
+.generator {
+    height: 90vh;
+}
 .generatorWrapper {
     display: grid;
     align-content: center;
-    grid-template-columns: 1fr 1.5fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    height: 100%;
     gap: 1px;
-    height: 90vh;
 }
 .generatorBoxes {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    height: 100%;
     background-color:#ffffff80;
     border: 2px solid black;
 }
@@ -95,4 +97,11 @@ body {
 #englishTranslation {
     display: none;
     font-size: 2rem;
+}
+
+@media only screen and (max-width: 1200px) {
+    .generatorWrapper {
+        grid-template-columns: auto;
+        grid-template-rows: repeat(auto-fit, minmax(200px, 33%));
+    }
 }
