@@ -20,13 +20,14 @@ document.addEventListener("keydown", event => {
             break;
         case 65:
             toggleDisplay("hiraganaReading");
+            toggleShowHide("hiraganaButton");
             break;
         case 68:
             toggleDisplay("englishTranslation");
+            toggleShowHide("englishButton");
             break;
         case 87:
-            toggleDisplay("hiraganaReading");
-            toggleDisplay("englishTranslation");
+            refreshOrDisplay();
     }
 });
 
@@ -45,6 +46,8 @@ function changeFilePath() {
         case "allKanji":
             filepath = "kanji-sets/all_kanji.txt";
             break;
+        case "dekiruChapterOne":
+            filepath = "kanji-sets/dekiru_nihongo_chapter_one.txt";
         default:
             console.log("file not found");
     }
@@ -69,12 +72,30 @@ function toggleDisplay(id) {
      document.getElementById(id).innerHTML = "show";
  }
 
- /* toggles display and changes button promps when generating new kanji */
+ /* toggles display to none and shows 'show' as the button prompt */
  function refresh() {
      document.getElementById("hiraganaReading").style.display = "none";
      document.getElementById("englishTranslation").style.display = "none";
      document.getElementById("hiraganaButton").innerHTML = "show";
      document.getElementById("englishButton").innerHTML = "show";
+ }
+
+/* toggles display to block and shows 'hide' as button prompt */
+ function display() {
+    document.getElementById("hiraganaReading").style.display = "block";
+    document.getElementById("englishTranslation").style.display = "block";
+    document.getElementById("hiraganaButton").innerHTML = "hide";
+    document.getElementById("englishButton").innerHTML = "hide";
+ }
+
+ /* if either items are displayed as none then calls display, else calls refresh */
+ function refreshOrDisplay() {
+     if (document.getElementById("hiraganaReading").style.display === "none" ||
+     document.getElementById("englishTranslation").style.display ==="none") {
+         display();
+     }
+     else 
+        refresh();
  }
 
  /*fetch*/
