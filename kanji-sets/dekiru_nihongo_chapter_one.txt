@@ -1,130 +1,130 @@
-掲示板 けい・じ・ばん noticeboard
-交流-する こう・りゅう-する to interact, to exchange
-協会 きょう・かい association
-広場 ひろ・ば space, place
-日時 にち・じ date and time
-人数 にん・ずう no. of people
-先着 せん・ちゃく first
-～名 ～めい（ごじゅう・めい） ～people (50 people)
+掲示板 けいじばん noticeboard
+交流-する こうりゅう-する to interact, to exchange
+協会 きょうかい association
+広場 ひろば space, place
+日時 にちじ date and time
+人数 にんずう no. of people
+先着 せんちゃく first
+～名 ～めい（ごじゅうめい） ～people (50 people)
 または または or
-当日 とう・じつ on the day
-支払う し・はら・う to pay
-雨天 う・てん rain
-就職活動-する しゅう・しょく・かつ・どう-する to job-hunt
-重要（な） じゅう・よう（な） important
-評価-する ひょう・か-する to appreciate
-年々 ねん・ねん year after year
-高まる たか・まる to increase
-金額 きん・がく amount (of money)
-領収書 りょう・しゅう・しょ receipt
+当日 とうじつ on the day
+支払う しはらう to pay
+雨天 うてん rain
+就職活動-する しゅうしょくかつどう-する to job-hunt
+重要（な） じゅうよう（な） important
+評価-する ひょうか-する to appreciate
+年々 ねんねん year after year
+高まる たかまる to increase
+金額 きんがく amount (of money)
+領収書 りょうしゅうしょ receipt
 サイン-する サイン-する to sign
-完成-する かん・せい-する to complete
-～品（完成品） ～ひん（かん・せい・ひん） item
-工事-する こう・じ-する to construct
-立てる（音を立てる） た・てる（おと・を・た・てる） to make (noise)
-先着 せん・ちゃく arriving first
-定員 てい・いん capacity
-事前予約 じ・ぜん・よ・やく advance reservation
-お問い合わせ お・と・い・あ・わせ to inquire
-申し込みする もう・し・こ・みする to apply for 
-窓口 まど・ぐち window; counter
-〆切（締め切り） しめ・きり（し・め・き・り） deadline
-持参する じ・さん・する to bring
-主催する しゅ・さい・する to host
-お知らせ お・し・らせ notice
-以前 い・ぜん before
-できる（友達ができる） できる（とも・だち・ができる） to make (friends)
+完成-する かんせい-する to complete
+～品（完成品） ～ひん（かんせいひん） item
+工事-する こうじ-する to construct
+立てる（音を立てる） たてる（おとをたてる） to make (noise)
+先着 せんちゃく arriving first
+定員 ていいん capacity
+事前予約 じぜんよやく advance reservation
+お問い合わせ おといあわせ to inquire
+申し込みする もうしこみする to apply for 
+窓口 まどぐち window; counter
+〆切（締め切り） しめきり（しめきり） deadline
+持参する じさんする to bring
+主催する しゅさいする to host
+お知らせ おしらせ notice
+以前 いぜん before
+できる（友達ができる） できる（ともだちができる） to make (friends)
 ラッキー（な） ラッキー（な） lucky
-定員(ていいん) てい・いん limit to the number of participants
-確か たし・か if I’m not mistaken
+定員(ていいん) ていいん limit to the number of participants
+確か たしか if I’m not mistaken
 プリン ぷりん (custard) pudding
-気分 き・ぶん mood
+気分 きぶん mood
 すっきり すっきり clear
-天気予報 てん・き・よ・ほう weather forecast
+天気予報 てんきよほう weather forecast
 キャスター きゃすたあ newscaster
-気象予報士 き・しょう・よ・ほう・し weather forecaster
-青空 あお・ぞら clear sky
-広がる ひろ・がる to spread(out)
-日中 にっ・ちゅう during the day
-最高 さい・こう highest
-見込み み・こ・み expectation
-汗ばむ あせ・ばむ to bring out a slight sweat
-陽気 よう・き warm
-～日和（洗濯日和） ～び・より（せん・たく・び・より） effect weather (for doing laundry)
-星空 ほし・ぞら starry sky
+気象予報士 きしょうよほうし weather forecaster
+青空 あおぞら clear sky
+広がる ひろがる to spread(out)
+日中 にっちゅう during the day
+最高 さいこう highest
+見込み みこみ expectation
+汗ばむ あせばむ to bring out a slight sweat
+陽気 ようき warm
+～日和（洗濯日和） ～びより（せんたくびより） effect weather (for doing laundry)
+星空 ほしぞら starry sky
 のち のち later
-前日 ぜん・じつ the day before
-午前中 ご・ぜん・ちゅう in the morning
-続く つづ・く to continue
-折りたたみ傘 お・りたたみ・がさ folding umbrella
-平年 へい・ねん average year
-～並み（平年並み） ～な・み（へい・ねん・な・み） equal to (equal to an average year)
-予想-する よ・そう-する to expect
-肌寒い はだ・ざむ・い chilly
-感じる かん・じる to feel
-連休 れん・きゅう holiday weekend
-～地方（東北地方） ～ち・ほう（とう・ほく・ち・ほう） region (Tohoku region)
-関東 かん・とう Kanto
-崩れる（ 天気が崩れる） くず・れる（てん・き・がくず・れる） to get worse (the weather gets worse)
-各地 かく・ち everywhere, all over the place
-助かる たす・かる to be helped
+前日 ぜんじつ the day before
+午前中 ごぜんちゅう in the morning
+続く つづく to continue
+折りたたみ傘 おりたたみがさ folding umbrella
+平年 へいねん average year
+～並み（平年並み） ～なみ（へいねんなみ） equal to (equal to an average year)
+予想-する よそう-する to expect
+肌寒い はだざむい chilly
+感じる かんじる to feel
+連休 れんきゅう holiday weekend
+～地方（東北地方） ～ちほう（とうほくちほう） region (Tohoku region)
+関東 かんとう Kanto
+崩れる（ 天気が崩れる） くずれる（てんきがくずれる） to get worse (the weather gets worse)
+各地 かくち everywhere, all over the place
+助かる たすかる to be helped
 ～のち… ～のち… after ～, …
-～一時… ～いち・じ…	～, temporarily …
-天気が崩れる てん・き・が・くず・れる the weather worsens / the weather breaks
-回復する かい・ふく・する the weather improves / the weather gets better / the weather picks up
-(平年)並み (へい・ねん)な・み average year
-汗ばむ あせ・ばむ to be slightly sweaty
-冷え込む ひ・え・こ・む get colder; get chilled
-梅雨 つ・ゆ rainy season
-夏日 なつ・び summer day (a day on which the temperature goes above 30 degrees Celsius)
-熱帯夜 ねっ・たい・や sultry night(a hot night when the temperature does not fall below 25degree outdoors)
-秋晴れ あき・ば・れ fine autumn weather
-蒸し暑い む・し・あつ・い muggy; sultry
-日差し ひ・ざ・し sunlight
-肌寒い はだ・ざむ・い chilly
-(お出かけ/洗濯/行楽…)日和 (お・で・かけ/せん・たく/こう・らく…)び・より fine weather for (going-out/laundry/excursion…)
+～一時… ～いちじ…	～, temporarily …
+天気が崩れる てんきがくずれる the weather worsens / the weather breaks
+回復する かいふくする the weather improves / the weather gets better / the weather picks up
+(平年)並み (へいねん)なみ average year
+汗ばむ あせばむ to be slightly sweaty
+冷え込む ひえこむ get colder; get chilled
+梅雨 つゆ rainy season
+夏日 なつび summer day (a day on which the temperature goes above 30 degrees Celsius)
+熱帯夜 ねったいや sultry night(a hot night when the temperature does not fall below 25degree outdoors)
+秋晴れ あきばれ fine autumn weather
+蒸し暑い むしあつい muggy; sultry
+日差し ひざし sunlight
+肌寒い はだざむい chilly
+(お出かけ/洗濯/行楽…)日和 (おでかけ/せんたく/こうらく…)びより fine weather for (going-out/laundry/excursion…)
 ぽかぽか ぽかぽか pleasantly warm (onomatopoeia)
 じめじめ じめじめ be [feel] damp; be wet (onomatopoeia)
 からっと からっと nicely dry (laundry, air, etc.); crisply (fried, cooked, etc.)
-しっかりする（彼はしっかりしている） しっかりする（かれ・はしっかりしている） to be reliable (he is reliable)
-実は じつ・は in reality
+しっかりする（彼はしっかりしている） しっかりする（かれはしっかりしている） to be reliable (he is reliable)
+実は じつは in reality
 おっちょこちょい（な） おっちょこちょい（な） scatter-brained
-性格 せい・かく character
+性格 せいかく character
 ハッピー（な） はっぴい（な） happy
 ストーリー すとおりい story
-気が短い き・が・みじか・い to have a short temper
-怒る おこ・る to get angry
-行動-する こう・どう-する to behave
+気が短い きがみじかい to have a short temper
+怒る おこる to get angry
+行動-する こうどう-する to behave
 ずいぶん ずいぶん rather, awfully
-欠点 けっ・てん shortcoming
-周り まわ・り around
-交換-する こう・かん-する to exchange
-素直(な) す・なお(な) obedient
-活発(な) かっ・ぱつ(な) active; lively
-積極的(な) せっ・きょく・てき(な) active; positive; vigorous
-几帳面(な) き・ちょう・めん(な) punctiliousness; scrupulosity
-慎重(な) しん・ちょう(な) careful
-努力家 ど・りょく・か hard worker
-我慢強い が・まん・づよ・い patient; perseverant
-楽天的(な) らく・てん・てき(な) optimistic
-思いやりがある おも・いやりがある thoughtful
-責任感がある せき・にん・かん・がある take responsibility; have a sense of responsibility
+欠点 けってん shortcoming
+周り まわり around
+交換-する こうかん-する to exchange
+素直(な) すなお(な) obedient
+活発(な) かっぱつ(な) active; lively
+積極的(な) せっきょくてき(な) active; positive; vigorous
+几帳面(な) きちょうめん(な) punctiliousness; scrupulosity
+慎重(な) しんちょう(な) careful
+努力家 どりょくか hard worker
+我慢強い がまんづよい patient; perseverant
+楽天的(な) らくてんてき(な) optimistic
+思いやりがある おもいやりがある thoughtful
+責任感がある せきにんかんがある take responsibility; have a sense of responsibility
 しっかりしている しっかりしている steadfast
 おとなしい おとなしい quiet; gentle
-負けず嫌い ま・けず・ぎら・い hating to lose
-恥ずかしがり屋 は・ずかしがり・や being shy
-寂しがり屋 さび・しがり・や lonely person; someone who easily succumbs to loneliness
+負けず嫌い まけずぎらい hating to lose
+恥ずかしがり屋 はずかしがりや being shy
+寂しがり屋 さびしがりや lonely person; someone who easily succumbs to loneliness
 のんびりしている のんびりしている relaxing; kicking back
 クール(な) くーる(な) being cool
-頑固(な) がん・こ(な) obstinate; stubborn
+頑固(な) がんこ(な) obstinate; stubborn
 おせっかい おせっかい interfering; meddlesome
 わがまま(な) わがまま(な) selfish; egoistic
 おっちょこちょい(な) おっちょこちょい(な) careless; hasty; scatterbrain
-飽きっぽい あ・きっぽい easily bored; quick to lose interest; fickle; capricious
-消極的(な) せっ・きょく・てき(な) positive; active
-神経質(な) しん・けい・しつ(な) sensitive; nervous
+飽きっぽい あきっぽい easily bored; quick to lose interest; fickle; capricious
+消極的(な) せっきょくてき(な) positive; active
+神経質(な) しんけいしつ(な) sensitive; nervous
 おおざっぱ(な) おおざっぱ(な) crude; rough
 せっかち(な) せっかち(な) impatient
-気が短い き・が・みじか・い short temper
-怒りっぽい おこ・りっぽい quick to take offense
-悲観的(な) ひ・かん・てき(な) pessimistic
+気が短い きがみじかい short temper
+怒りっぽい おこりっぽい quick to take offense
+悲観的(な) ひかんてき(な) pessimistic
