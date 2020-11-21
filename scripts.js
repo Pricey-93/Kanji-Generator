@@ -57,6 +57,9 @@ function changeFilePath() {
             break;
         case "dekiruChapterFour":
             filepath = "kanji-sets/dekiru_nihongo_chapter_four.txt";
+            break;
+        case "dekiruAllChapters":
+            filepath = "kanji-sets/dekiru_nihongo_all_chapters.txt";
         default:
             console.log("file not found");
     }
